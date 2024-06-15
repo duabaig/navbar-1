@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;}
+
+    .nav-item {
+      align-items: center;
+    }
+
+    .nav-link1 {
+      justify-content: space-evenly;
+      text-decoration: none;
+
+      border-bottom: 1px, 1px, 1px, 1px solid black;
+    }
+
+    .nav-link1:hover {
+      color: black;
+      background-color: #fc0808;
+    }
+
+    .nav-link2 {
+      justify-content: space-evenly;
+      text-decoration: none;
+
+      border-bottom: 1px, 1px, 1px, 1px solid black;
+     }
+
+    .nav-link2:hover {
+      color: black;
+      background-color: #fc0808;
+   }
+   .nav-link3 {
+      justify-content: space-evenly;
+      text-decoration: none;
+
+      border-bottom: 1px, 1px, 1px, 1px solid black;
+     }
+
+    .nav-link3:hover {
+      color: black;
+      background-color: #fc0808;}
+
+      .nav-link4{
+      justify-content: space-evenly;
+      text-decoration: none;
+      border-bottom: 2px, 2px, 2px, 2px solid black;
+     }
+
+    .nav-link4:hover {
+      color: black;
+      background-color: #fc0808;}
+
+      .btn:hover{
+        color: black;
+
+      }
+
+.social{
+margin-right: 50px;
+}
+
+
+   
+
+ .navbar-nav {
+    justify-content: center; 
+   
+  }
+.nav-item{
+    margin-bottom: 10px;
+   
+}
+.dropdown-menu{
+    padding:  10px; ;
+}
+.nav-link{
+    border-radius: 10px;
+    padding: 2%;
+    font-weight: 100;
+
+}
+.a:hover{
+    background-color: #fc0808;
+    color:black;
+    
+}
+          
